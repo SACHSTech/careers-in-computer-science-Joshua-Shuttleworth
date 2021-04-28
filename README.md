@@ -8,3 +8,7 @@ To become a systems developer usually requires a bachelor of computer science or
 
 ## Salary range
 The base salary range for a systems developer in on Ontario according to payscale.com is $49k CAD to $103k CAD with a average of $71k CAD.
+
+![alt text](https://raw.githubusercontent.com/SACHSTech/careers-in-computer-science-Joshua-Shuttleworth/main/Images/Chart.png "Salary range chart")
+
+###### Chart based on a similar one from payscale
