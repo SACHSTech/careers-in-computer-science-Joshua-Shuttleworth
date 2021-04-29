@@ -43,7 +43,7 @@ There are other ways to gain experience outside of school here are some of the d
 
 ‎
 ## 1. Competitive Programming Competitions
-The first way to obtain experience is by participating in competitive programming competitions. These competitions are great for improving your logical thinking and problem solving skills because most of the questions are heavily math based. Not just that if your doing competitive programing this means that your probably practicing before the competition so this practice also contributes to your experience.
+The first way to obtain experience is by participating in competitive programming competitions. These competitions are great for improving your logical thinking and problem solving skills because most of the questions are heavily math based. Not just that if you're doing competitive programming this means that you're probably practicing before the competition so this practice also contributes to your experience.
 ‎
 
 ‎
@@ -53,7 +53,7 @@ Another way to obtain experience is by decompiling programs for fun. This is a g
 
 ‎
 ## 3. Creating Video Game Cheats
-Similarly to the previous you can also learn more about how applications actually work by creating video game cheats. Working with memory editing can teach you about pointers and how variables are stored in memory. Depending on the game it can also teach about drivers and the operating system specifically when dealing with kernel cheats. Actually this is the reason why I wanted to learning programming in the first place from there my intrests grew and now I want to know more about everything to do with computers.
+Similarly to the previous you can also learn more about how applications actually work by creating video game cheats. Working with memory editing can teach you about pointers and how variables are stored in memory. Depending on the game it can also teach about drivers and the operating system specifically when dealing with kernel cheats. Actually this is the reason why I wanted to learn programming in the first place from there my interests grew and now I want to know more about everything to do with computers.
 ‎
 
 ‎
