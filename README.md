@@ -67,5 +67,5 @@ Finally one of the best ways to gain experience is by creating system software f
 |-----------------|:-------------------:|:-------------:|--------------:|
 |Salary range     | $51k - $73k         |               |               |
 |City             | Flexible (In Canada)|               |               |
-|Description      | Goto Description    |               |               |
+|Description      | [Goto Description](https://github.com/SACHSTech/careers-in-computer-science-Joshua-Shuttleworth/blob/main/AdditionalMD/Entry_Level_Description.md)    |               |               |
 |Additional Skills|                     |               |               |
