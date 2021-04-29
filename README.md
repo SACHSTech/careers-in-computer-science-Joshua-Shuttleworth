@@ -63,3 +63,9 @@ Finally one of the best ways to gain experience is by creating system software f
 
 ‎
 # Real Jobs
+|                 | Entry Level         | Mid level     | Senior level  |
+|-----------------|:-------------------:|:-------------:|--------------:|
+|Salary range     | $51k - $73k         |               |               |
+|City             | Flexible (In Canada)|               |               |
+|Description      | Goto Description    |               |               |
+|Additional Skills|                     |               |               |
