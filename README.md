@@ -64,7 +64,7 @@ Finally one of the best ways to gain experience is by creating system software f
 
 # Real Jobs
 |                 |Entry Level          |Mid level               |Senior level                     |
-|-----------------|:-------------------:|:----------------------:|--------------------------------:|
+|-----------------|:--------------------|:-----------------------|:--------------------------------|
 |Name             |Jr. Systems Developer|Senior Backend Developer|Senior Backend Engineer (Node.js)|
 |Salary range     |$51k - $73k          |$60k - $80k             |$85k - $150k                     |
 |City             |Flexible (In Canada) |Toronto                 |Toronto                          |
