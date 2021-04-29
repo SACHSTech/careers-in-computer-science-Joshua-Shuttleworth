@@ -61,11 +61,12 @@ Similarly to the previous you can also learn more about how applications actuall
 Finally one of the best ways to gain experience is by creating system software for fun. If you have a neat idea why not try and make it there is plenty of information available on the web and you can also see how other people do by looking at open source software. Even if your software never comes to fruition or is not how you want it to be it was still a great learning experience. You can never get better at creating things if you don’t keep trying. That's why I create everything that comes to mind.
 ‎
 
-‎
+
 # Real Jobs
-|                 | Entry Level         | Mid level     | Senior level  |
-|-----------------|:-------------------:|:-------------:|--------------:|
-|Salary range     | $51k - $73k         |               |               |
-|City             | Flexible (In Canada)|               |               |
-|Description      | [Goto Description](https://github.com/SACHSTech/careers-in-computer-science-Joshua-Shuttleworth/blob/main/AdditionalMD/Entry_Level_Description.md)    |               |               |
-|Additional Skills|                     |               |               |
+|                 |Entry Level          |Mid level               |Senior level                     |
+|-----------------|:-------------------:|:----------------------:|--------------------------------:|
+|Name             |Jr. Systems Developer|Senior Backend Developer|Senior Backend Engineer (Node.js)|
+|Salary range     |$51k - $73k          |$60k - $80k             |$85k - $150k                     |
+|City             |Flexible (In Canada) |Toronto                 |Toronto                          |
+|Description      |[Goto Description](https://github.com/SACHSTech/careers-in-computer-science-Joshua-Shuttleworth/blob/main/AdditionalMD/Entry_Level_Description.md)   |[Goto Description](https://github.com/SACHSTech/careers-in-computer-science-Joshua-Shuttleworth/blob/main/AdditionalMD/Mid_Level_Description.md)      |[Goto Description]‎(https://github.com/SACHSTech/careers-in-computer-science-Joshua-Shuttleworth/blob/main/AdditionalMD/Senior_Description.md)               |
+|Additional Skills|                     |                        |               |
